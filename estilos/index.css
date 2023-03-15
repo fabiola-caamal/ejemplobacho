@@ -1,0 +1,56 @@
+#logo1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#logo2{
+    display: inline-block;
+    width: 10%;
+}
+#titulo1{
+    display: inline-block;
+    width: 80%;
+    font-family: monospace;
+}
+#tittexto{
+    display: inline-block;
+    width: 60%;
+}
+#titulo{
+    display: inline-block;
+    width: 65%;
+}
+#barra{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 10%;
+    background-color: white;
+    border: solid #45245D;
+    text-align: center;
+    font-family:monospace;
+}
+#marco{
+    width: 98.7%;
+    height: 400px;
+    padding: 8px;
+    border: solid #45245D;
+    background-color: white;
+
+}
+#pie{
+    border: solid #45245D;
+    background-color: #E3CCF4;
+    font-size: 18px;
+    text-align: center;
+}
+li{
+  
+    
+    
+    
+}
+body{
+    background-color: #E3CCF4;
+}

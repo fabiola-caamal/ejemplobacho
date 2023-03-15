@@ -1,0 +1,16 @@
+#b{
+    display:inline-block;
+    float: left;
+    width: 20%;
+
+}
+#titulo{
+    display: inline-block;
+    width: 20%;
+    
+}
+p{
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
